@@ -1,0 +1,19 @@
+{
+  "name": "purescript-dep-mgmt",
+  "version": "0.0.0",
+  "authors": [
+    "Alex Berg <chexxor@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-mysquare": "chexxor/purescript-mysquare#v0.1",
+    "purescript-mycube": "chexxor/purescript-mycube#v0.1"
+  }
+}
