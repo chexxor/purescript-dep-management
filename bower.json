@@ -13,7 +13,7 @@
     "tests"
   ],
   "dependencies": {
-    "purescript-mysquare": "chexxor/purescript-mysquare#v0.1",
-    "purescript-mycube": "chexxor/purescript-mycube#v0.1"
+    "purescript-mysquare": "chexxor/purescript-mysquare#v0.2",
+    "purescript-mycube": "chexxor/purescript-mycube#v0.2"
   }
 }
